@@ -45,6 +45,7 @@ I’ve made some changes, fixed some stuff, broke some other stuff.
 - Copy / Delete are currently removed because they were being annoying. Might re-add if I can get them working nicely.
 - Works on Firebird emulator (OS 4.5.4.48) and my TI-Nspire CX (OS 4.2.0.532).  
 - No guarantees on other OSes or models, but it will probably work.
+- Some of the text is corrupted, I'm not sure why (I didn't look all that hard though...)
 
 ---
 
@@ -67,17 +68,17 @@ If you are Hoffa and would like a license applied or attribution changed, please
 **New folder creation**  
 ![New folder](screenshots/screenshot3.png)
 
+
 **Rename & Stuff**
+
 ![Demo](screenshots/demo.gif)
 
-
-Some of the text is corrupted, I'm not sure why (I didn't look all that hard though...)
 ---
 
 ## 🛠️ Building
 
 You’ll need the [Ndless SDK](https://github.com/ndless-nspire/Ndless) set up.  
-Then just:
+Then just run where the project files are:
 
 ```bash
 make
