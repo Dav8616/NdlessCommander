@@ -46,6 +46,7 @@ I’ve made some changes, fixed some stuff, broke some other stuff.
 - Works on Firebird emulator (OS 4.5.4.48) and my TI-Nspire CX (OS 4.2.0.532).  
 - No guarantees on other OSes or models, but it will probably work.
 - Some of the text is corrupted, I'm not sure why (I didn't look all that hard though...)
+- Preview is also broken, dunno why (I didn't pay this a whole lot of attention either)
 
 ---
 
